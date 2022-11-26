@@ -50,7 +50,7 @@
 
 <br>
 
-<h2 align="center"> Connect to me </h2>
+<h2 align="center"> ⛩️ Connect to me ⛩️</h2>
 <br>
 
 <div align="center">
