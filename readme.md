@@ -49,3 +49,15 @@
 </div>
 
 <br>
+
+<h2 align="center"> Connect to me </h2>
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/khanhtrandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhtrandev-linkedin" />
+  </a>
+  <a href="mailto:khanhtran28.work@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhtrandev-email" />
+  </a>
+</div>
