@@ -1,9 +1,15 @@
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">Hello, I'm Khanh, a web deverloper in Viet Nam</h2>
+<div align="center">
+    <a href="#" title="katinbox">
+        <img width="425" src="https://github-readme-stats.vercel.app/api?username=katinbox&show_icons=true&theme=gruvbox&hide_border=true" />
+    </a>
+    <a href="#" title="katinbox">
+        <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katinbox&hide=c%23&theme=gruvbox&langs_count=8&layout=compact&hide_border=true" />
+    </a>
+</div>
+
 <br>
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span> -->
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
@@ -36,23 +42,7 @@
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=Swagger&logoColor=#85EA2D" alt="Swagger" title="Swagger" height="25" /></span>
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="katinbox">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katinbox&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="katinbox">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=katinbox&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center"> ⛩️ Connect to me ⛩️</h2>
-<br>
-
+<hr />
 <div align="center">
   <a href="https://www.linkedin.com/in/khanhtrandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhtrandev-linkedin" />
