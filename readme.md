@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Khanh, a web deverloper in 🇻🇳</h2>
+<h2 align="center">Hello 👋, I'm Khanh, a web deverloper in 🇻🇳</h2>
 <div align="center">
     <a href="#" title="katinbox">
         <img width="425" src="https://github-readme-stats.vercel.app/api?username=katinbox&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -9,9 +9,7 @@
 </div>
 <br />
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,sass,nodejs,express,tailwindcss,neovim,wordpress,docker,git,mongodb" />
-  </a>
 </p>
 
 <hr />
