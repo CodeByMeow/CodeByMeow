@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm Khanh, a web deverloper in 🇻🇳</h2>
+<h2 align="center">Hello 👋, I'm Khanh, a web deverloper in Viet Nam</h2>
 <div align="center">
     <a href="#" title="katinbox">
         <img width="425" src="https://github-readme-stats.vercel.app/api?username=katinbox&show_icons=true&theme=rose_pine&hide_border=true" />
