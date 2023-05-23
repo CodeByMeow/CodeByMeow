@@ -1,10 +1,10 @@
 <h2 align="center">Hello 👋, I'm Khanh, a web deverloper in Viet Nam</h2>
 <div align="center">
     <a href="#" title="katinbox">
-        <img width="425" src="https://github-readme-stats.vercel.app/api?username=katinbox&show_icons=true&theme=rose_pine&hide_border=true" />
+        <img width="425" src="https://github-readme-stats.vercel.app/api?username=7ColorsCat&show_icons=true&theme=rose_pine&hide_border=true" />
     </a>
     <a href="#" title="katinbox">
-        <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katinbox&hide=c%23&theme=rose_pine&langs_count=8&layout=compact&hide_border=true" />
+        <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ColorsCat&hide=c%23&theme=rose_pine&langs_count=8&layout=compact&hide_border=true" />
     </a>
 </div>
 <br />
